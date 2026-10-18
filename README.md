@@ -1,106 +1,107 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=ABDUL%20SUBOOR&fontColor=FFFFFF&fontSize=52&fontAlignY=42&desc=SOFTWARE%20DEVELOPMENT%20%7C%20AI%20%7C%20AUTOMATION&descAlignY=62&descSize=15" width="100%" alt="Abdul Suboor — Software Development, AI and Automation" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:0B1220,45:123B73,100:06B6D4&text=ABDUL%20SUBOOR&fontColor=FFFFFF&fontSize=54&fontAlignY=40&desc=SOFTWARE%20%7C%20PROBLEM%20SOLVING%20%7C%20AI%20EXPLORATION&descAlignY=63&descSize=15" width="100%" alt="Abdul Suboor — Software, Problem Solving, AI Exploration" />
 
-# Building skills. Shipping projects. Staying curious.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Learning+by+building.;Turning+concepts+into+working+code.;Exploring+software%2C+AI+and+automation." alt="Animated introduction" /></a>
 
-**Aspiring Software Developer** · Student · Lifelong Learner
-
-[![GitHub](https://img.shields.io/badge/GitHub-Abdul--Suboor--idk-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdul-Suboor-idk)
-[![Focus](https://img.shields.io/badge/FOCUS-Problem%20Solving-2563EB?style=for-the-badge)](#-current-focus)
-[![Learning](https://img.shields.io/badge/MINDSET-Always%20Learning-0891B2?style=for-the-badge)](#-how-i-work)
+<p>
+  <a href="https://github.com/Abdul-Suboor-idk?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <a href="#-current-focus"><img src="https://img.shields.io/badge/Current-Focus-075985?style=for-the-badge&logo=target&logoColor=white" alt="Current focus" /></a>
+</p>
 
 </div>
 
 ---
 
-## 👋 About
+## 01 / Profile
 
-I'm a student developing a strong foundation in programming and practical software development. I'm interested in how technology can turn everyday problems into useful, simple tools—and I'm exploring the intersection of **software, AI, and automation**.
+I'm a student building a solid foundation in software development. I enjoy breaking problems into smaller steps, understanding how things work, and turning what I learn into practical programs.
 
-I believe a good developer doesn't just write code: they learn continuously, communicate clearly, test their work, and keep improving it.
+My current direction is **programming fundamentals first**, with a growing interest in **AI tools and automation**. I value clear code, honest documentation, steady improvement, and projects that solve real problems.
 
-- 🌱 **Currently learning:** C++, Python, and web development fundamentals
-- 🧭 **Exploring:** AI tools, automation workflows, and Linux
-- 🎯 **My goal:** Build useful, well-documented projects that demonstrate real problem-solving
-- 📍 **Based in:** Pakistan · Open to learning, collaboration, and beginner-friendly open-source contributions
+- **Learning now:** C++, Python, HTML and CSS
+- **Exploring:** Linux, AI tools, and automation workflows
+- **Working toward:** A portfolio of useful, well-documented projects
+- **Based in:** Pakistan
+- **Open to:** Learning with others, constructive feedback, and beginner-friendly collaboration
 
-## 🧠 Technical Toolkit
+## 02 / Technical Toolkit
 
-*Skills in progress — I aim to represent my current level honestly and improve through hands-on work.*
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ learning" />
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python learning" />
+  <img src="https://img.shields.io/badge/HTML5-Fundamentals-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML fundamentals" />
+  <img src="https://img.shields.io/badge/CSS3-Fundamentals-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS fundamentals" />
+  <img src="https://img.shields.io/badge/Linux-Basics-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux basics" />
+  <img src="https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-| Area | Technologies |
-|---|---|
-| Programming | C++ · Python |
-| Web fundamentals | HTML · CSS |
-| Tools & environment | GitHub · Linux fundamentals |
-| Areas of interest | AI tools · Automation · Problem-solving |
+<sub>These are learning areas, not claims of professional-level mastery. I update this section as my practical experience grows.</sub>
 
-<div align="center">
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-</div>
-
-## 🎯 Current Focus
+## 03 / Current Focus
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-### 💻 Programming foundations
-- Practising C++ syntax and core concepts
-- Strengthening logic and problem-solving
-- Writing readable, structured code
+### 01 — Programming
 
-</td>
-<td width="50%" valign="top">
+- Strengthen logic and problem-solving
+- Practise C++ fundamentals and control structures
+- Write code that's readable and maintainable
 
-### ⚙️ Practical building
-- Learning Python through small utilities
-- Developing web fundamentals
-- Exploring AI-assisted workflows and automation
+    </td>
+    <td width="50%" valign="top">
 
-</td>
-</tr>
+### 02 — Building
+
+- Practise Python with small utilities
+- Learn the foundations of web development
+- Explore responsible, practical AI and automation use
+
+    </td>
+  </tr>
 </table>
 
-## 🏗️ Project Portfolio
+## 04 / Project Roadmap
 
-I want each project here to show **what problem it solves, how it works, and what I learned**. I'm building toward that standard rather than listing unfinished work as completed.
+I want every published project to include a clear purpose, setup instructions, examples, and a note about what I learned.
 
-**Projects I'm aiming to publish next**
-- **Budget Tracker** — a beginner-friendly C++ program for tracking expenses and remaining balance
-- **File Organizer** — a Python utility to practise file and folder operations
-- **Personal Portfolio** — a responsive website to present projects and learning progress
+| Project idea | What it demonstrates | Status |
+|---|---|---|
+| **C++ Budget Tracker** | Input, arithmetic, conditions, and balance calculations | Planned |
+| **Python File Organizer** | File handling, paths, and automation fundamentals | Planned |
+| **Personal Portfolio** | HTML, CSS, responsive layout, and project presentation | Planned |
 
-*These are planned learning projects, not claims of completed work. I'll link each one here once it's built and documented.*
+<sub>These are planned projects, not completed work. I'll feature each repository here after it's built and documented.</sub>
 
-## 🧩 How I Work
-
-- **Learn by doing:** turn concepts into small working programs.
-- **Keep it understandable:** prefer clear naming and readable code.
-- **Improve iteratively:** learn from errors, feedback, and testing.
-- **Be honest about progress:** document what works and what still needs improvement.
-
-## 🤝 Connect & Collaborate
-
-Have a beginner-friendly project idea, a useful resource, or feedback on my code? I'd be glad to learn from it.
-
-- **GitHub:** [@Abdul-Suboor-idk](https://github.com/Abdul-Suboor-idk)
-- **Repositories:** [Explore my work](https://github.com/Abdul-Suboor-idk?tab=repositories)
+## 05 / GitHub Activity
 
 <div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdul-Suboor-idk&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=38BDF8&icon_color=38BDF8" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Suboor-idk&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8" alt="Most used languages on GitHub" />
 
-*Curiosity → Practice → Projects → Progress*
+</div>
 
-<sub>Thanks for visiting. I'm just getting started—watch this space.</sub>
+<sub>These cards are generated by a third-party service and may take time to load. Language statistics reflect public repository code, not overall ability.</sub>
+
+## 06 / Principles
+
+- **Build to understand.** Turn lessons into working examples.
+- **Prefer clarity.** Make code easy for another person to follow.
+- **Test and iterate.** Treat mistakes and feedback as part of development.
+- **Show the work.** Keep projects documented and progress genuine.
+
+## 07 / Find Me on GitHub
+
+<div align="center">
+
+[![GitHub profile](https://img.shields.io/badge/Follow%20my%20journey-Abdul--Suboor--idk-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdul-Suboor-idk)
+[![Repositories](https://img.shields.io/badge/View-Public%20Repositories-0369A1?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Abdul-Suboor-idk?tab=repositories)
+
+**Curiosity → Practice → Projects → Progress**
+
+<sub>Thanks for stopping by. I'm building the fundamentals today to create more useful software tomorrow.</sub>
 
 </div>
