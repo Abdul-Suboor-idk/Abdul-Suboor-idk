@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hey, I'm Abdul Suboor 👋
 
-<!--
-**Abdul-Suboor-idk/Abdul-Suboor-idk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Student | Curious About AI & Automation
 
-Here are some ideas to get you started:
+I'm a student building my programming skills one project at a time. I enjoy learning how software works, solving problems, and exploring practical uses of technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **Currently learning:** C++, Python, and web development fundamentals
+- 🛠️ **Exploring:** Linux, AI tools, and automation
+- 🎯 **Goal:** Build useful projects, improve my coding fundamentals, and contribute to open source
+- 💬 **Ask me about:** Beginner programming, C++ basics, and what I'm learning
+
+---
+
+## 🧰 Tech I'm Learning
+
+![C++](https://img.shields.io/badge/C%2B%2B-learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-basics-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-basics-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-basics-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-learning-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🚀 What I'm Working Toward
+
+- Writing clean, understandable C++ programs
+- Practising Python through small projects
+- Learning to build simple websites
+- Creating projects that solve everyday problems
+- Improving my use of Git and GitHub
+
+## 📌 Featured Projects
+
+I'm building up my project portfolio. Check back as I add new work!
+
+## 🤝 Let's Connect
+
+You can explore my repositories and follow my progress here on GitHub.
+
+---
+
+*“Learn by building. Improve by repeating.”*
