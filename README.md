@@ -1,30 +1,23 @@
-# Abdul Suboor
+# Hi, I'm Abdul Suboor 👋
 
-I'm a student learning software development, mainly working on programming fundamentals and small projects. Right now I'm focusing on C++ and Python, while learning the basics of web development.
+I'm a student learning software development and building small projects as I improve my programming skills.
 
-I like understanding how things work and building something with what I've learned.
+- 🌱 Currently learning **C++**, **Python**, and the basics of **HTML/CSS**
+- 🛠️ Practicing problem-solving, Git, GitHub, and Linux
+- 🤖 Interested in AI tools and automation
+- 📍 Pakistan
 
-## What I'm learning
+## Featured project
 
-- **C++** — fundamentals, conditions, loops, functions, and problem-solving
-- **Python** — core syntax and small automation ideas
-- **HTML & CSS** — the basics of building web pages
-- **Linux and GitHub** — getting more comfortable with developer tools
+### [C++ Personal Finance Tracker](https://github.com/Abdul-Suboor-idk/cpp-personal-finance-tracker.)
+A beginner-friendly console app for recording income and expenses, viewing summaries, filtering by category, and checking monthly reports. Built with C++.
 
-## Projects
+## Skills I'm building
 
-I'm building up my portfolio and will add projects here as I finish them. I want each project to have readable code, clear instructions, and examples so someone else can run it.
-
-## A bit about me
-
-- Based in Pakistan
-- Interested in software, AI tools, and automation
-- Always open to feedback and learning from other developers
+`C++` `Python` `HTML` `CSS` `Git` `GitHub` `Linux`
 
 ## Find me
 
 - [GitHub repositories](https://github.com/Abdul-Suboor-idk?tab=repositories)
 
----
-
-*Learning step by step, and trying to build something useful along the way.*
+I'm learning by building, testing, and improving one project at a time. Feedback and suggestions are welcome.
